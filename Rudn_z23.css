@@ -1,0 +1,32 @@
+p#pogrubienie_rudnik {
+	font-size: 31px;
+	color: #8260D4;
+}
+
+p#pochylona_rudnik {
+	font-size: 34pt;
+	color: #E6C470;
+}
+
+p#index_gorny_rudnik {
+	font-size: 1,1pt;
+	color: #969220;
+}
+
+p#index_dolny_rudnik {
+	font-size: 1,7cm;
+	color: rgb(19%, 96%, 90%);
+}
+
+p#mono_rudnik {
+	font-size: 41px;
+	color: #16E270;
+}
+
+p#powiekszenie_rudnik {
+	color: #5042A2;
+}
+
+p#pomniejszenie_rudnik {
+	color: rgb(70%, 65%, 24%);
+}
